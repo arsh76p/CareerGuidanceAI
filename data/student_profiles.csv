@@ -1,0 +1,601 @@
+stream,science_focus,field,hobby,free_time,subject,grade,age,career
+Science,Non-Medical,Engineering & Technology,Media & Communication,Coding/Technical Projects,AI/ML/Data Science,A,20,Software Engineer
+Arts,None,Business & Management,Innovation & Future Tech,Online Courses/Learning,Business Management,A+,17,Entrepreneur / Startup Founder
+Commerce,None,Design & Creative Arts,Media & Communication,Designing/Creative Work,Design/Arts,C,16,Graphic Designer
+Arts,Non-Medical,Business & Management,Science & Experiments,Online Courses/Learning,Economics,A,20,MBA Leadership Roles
+Commerce,Non-Medical,Engineering & Technology,Technology & Computers,Coding/Technical Projects,AI/ML/Data Science,B,21,Data Scientist
+Commerce,None,Finance & Accounting Path,Business & Money,Reading/Books,Economics,B,19,Chartered Accountant (CA)
+Arts,None,Law & Legal Services,Media & Communication,Online Courses/Learning,Economics,B,22,Lawyer / Advocate
+Commerce,None,Finance & Accounting Path,Innovation & Future Tech,Online Courses/Learning,Mathematics,A+,20,Chartered Accountant (CA)
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Mathematics,B,22,Mechanical Engineer
+Science,Non-Medical,Engineering & Technology,Environment & Nature,Coding/Technical Projects,Physics,A+,21,Civil Engineer
+Commerce,Non-Medical,Data Science & Analytics,Business & Money,Online Courses/Learning,Business Management,B,17,Data Scientist
+Science,Non-Medical,Business & Management,Business & Money,Coding/Technical Projects,Economics,A,20,Entrepreneur / Startup Founder
+Commerce,None,Business & Management,Business & Money,Online Courses/Learning,Mathematics,B+,16,MBA Leadership Roles
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Biology,B+,19,Doctor
+Commerce,Non-Medical,Business & Management,Business & Money,Online Courses/Learning,Computer Science,A,18,Entrepreneur / Startup Founder
+Commerce,None,Finance & Accounting Path,Business & Money,Reading/Books,Economics,B+,16,Chartered Accountant (CA)
+Arts,None,Government Services,Law & Policy,Online Courses/Learning,Economics,A+,22,IAS Officer
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Law,A,19,Civil Engineer
+Commerce,None,Finance & Accounting Path,Business & Money,Reading/Books,Economics,B+,20,Chartered Accountant (CA)
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Chemistry,B,21,Pharmacist
+Science,Non-Medical,Economics & Data,Sports & Fitness,Coding/Technical Projects,Economics,B+,19,Business Analyst
+Commerce,None,Finance & Accounting Path,Business & Money,Reading/Books,Business Management,C,19,Chartered Accountant (CA)
+Arts,None,Law & Legal Services,Media & Communication,Reading/Books,Economics,B,19,Lawyer / Advocate
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Mathematics,A+,20,Civil Engineer
+Commerce,Non-Medical,Data Science & Analytics,Technology & Computers,Online Courses/Learning,Computer Science,A,18,Data Scientist
+Commerce,None,Design & Creative Arts,Helping & Community,Online Courses/Learning,Design/Arts,B,19,Graphic Designer
+Commerce,None,Design & Creative Arts,Helping & Community,Online Courses/Learning,Computer Science,B,20,Graphic Designer
+Arts,Medical,Psychology & Counseling,Helping & Community,Online Courses/Learning,Biology,A+,22,Clinical Psychologist
+Science,Non-Medical,Research & Development,Innovation & Future Tech,Reading/Books,Physics,A,19,Research Scientist
+Science,Non-Medical,Economics & Data,Law & Policy,Online Courses/Learning,Computer Science,B+,19,Data Analyst
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Online Courses/Learning,Mathematics,A,21,Mechanical Engineer
+Commerce,Non-Medical,Business & Management,Environment & Nature,Coding/Technical Projects,Computer Science,B,19,Entrepreneur / Startup Founder
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Physics,B+,20,Civil Engineer
+Arts,None,Government Services,Helping & Community,Reading/Books,AI/ML/Data Science,B,21,IAS Officer
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Coding/Technical Projects,Computer Science,B,16,Software Engineer
+Commerce,None,Economics & Data,Technology & Computers,Coding/Technical Projects,Mathematics,B,22,Business Analyst
+Arts,Non-Medical,Business & Management,People Interaction,Online Courses/Learning,Business Management,A+,20,MBA Leadership Roles
+Arts,None,Media & Journalism,Creativity & Design,Designing/Creative Work,Economics,B,16,Journalist
+Science,Non-Medical,Engineering & Technology,Science & Experiments,Online Courses/Learning,Mathematics,A+,21,Mechanical Engineer
+Commerce,Non-Medical,Data Science & Analytics,Technology & Computers,Coding/Technical Projects,Computer Science,A,19,Data Scientist
+Science,Non-Medical,Data Science & Analytics,Innovation & Future Tech,Online Courses/Learning,AI/ML/Data Science,A+,17,Software Engineer
+Arts,None,Law & Legal Services,Media & Communication,Online Courses/Learning,Political Science,A,17,Lawyer / Advocate
+Science,Non-Medical,Engineering & Technology,Technology & Computers,Online Courses/Learning,Mathematics,A,16,AI Engineer
+Science,None,Government Services,People Interaction,Reading/Books,Political Science,A+,20,IAS Officer
+Science,Non-Medical,Economics & Data,Technology & Computers,Online Courses/Learning,Economics,C,17,Business Analyst
+Commerce,None,Law & Legal Services,Law & Policy,Online Courses/Learning,Law,A+,16,Lawyer / Advocate
+Commerce,None,Media & Journalism,Creativity & Design,Reading/Books,Political Science,A,20,Journalist
+Science,Medical,Medical & Healthcare,Helping & Community,Online Courses/Learning,Biology,B,16,Pharmacist
+Science,Non-Medical,Research & Development,Science & Experiments,Reading/Books,Mathematics,A+,18,Research Scientist
+Arts,None,Law & Policy,Logic & Problem Solving,Online Courses/Learning,Law,A,19,IAS Officer
+Science,Medical,Research & Development,Innovation & Future Tech,Online Courses/Learning,Physics,A+,16,Research Scientist
+Commerce,None,Media & Journalism,Creativity & Design,Reading/Books,Political Science,B+,17,Journalist
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Biology,B,22,Dentist
+Commerce,None,Finance & Accounting Path,Business & Money,Online Courses/Learning,Psychology,A,16,Chartered Accountant (CA)
+Arts,Medical,Psychology & Counseling,Helping & Community,Online Courses/Learning,Biology,B+,19,Clinical Psychologist
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Online Courses/Learning,Computer Science,B+,22,AI Engineer
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Coding/Technical Projects,Computer Science,A,17,Software Engineer
+Science,Non-Medical,Business & Management,People Interaction,Online Courses/Learning,Economics,B,18,MBA Leadership Roles
+Science,None,Business & Management,Business & Money,Coding/Technical Projects,Business Management,A+,19,Entrepreneur / Startup Founder
+Arts,None,Design & Creative Arts,Creativity & Design,Designing/Creative Work,Design/Arts,A,21,Graphic Designer
+Arts,None,Design & Creative Arts,Creativity & Design,Designing/Creative Work,Design/Arts,A,21,Graphic Designer
+Science,Non-Medical,Economics & Data,Technology & Computers,Online Courses/Learning,Computer Science,A,21,Business Analyst
+Arts,None,Design & Creative Arts,Creativity & Design,Designing/Creative Work,Computer Science,B,20,UX/UI Designer
+Commerce,None,Design & Creative Arts,Media & Communication,Designing/Creative Work,Design/Arts,B+,22,Graphic Designer
+Commerce,None,Finance & Accounting Path,Business & Money,Online Courses/Learning,Business Management,B,17,Chartered Accountant (CA)
+Science,Non-Medical,Research & Development,Logic & Problem Solving,Online Courses/Learning,Biology,A,19,Research Scientist
+Science,Non-Medical,Data Science & Analytics,Technology & Computers,Coding/Technical Projects,Mathematics,A,20,AI Engineer
+Commerce,Non-Medical,Data Science & Analytics,Technology & Computers,Coding/Technical Projects,Economics,B+,18,Data Analyst
+Science,Non-Medical,Research & Development,Science & Experiments,Reading/Books,Chemistry,A,20,Research Scientist
+Arts,None,Law & Legal Services,Media & Communication,Online Courses/Learning,Law,B+,22,Lawyer / Advocate
+Science,Medical,Medical & Healthcare,Logic & Problem Solving,Reading/Books,Biology,B,18,Dentist
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Online Courses/Learning,Computer Science,A,19,AI Engineer
+Science,Medical,Medical & Healthcare,People Interaction,Online Courses/Learning,Physics,A+,18,Doctor
+Arts,None,Psychology & Counseling,People Interaction,Online Courses/Learning,Psychology,A,20,Clinical Psychologist
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Online Courses/Learning,Mathematics,A,19,Civil Engineer
+Science,Non-Medical,Engineering & Technology,Law & Policy,Online Courses/Learning,AI/ML/Data Science,A,20,Data Scientist
+Science,Medical,Medical & Healthcare,Environment & Nature,Reading/Books,Physics,A+,16,Doctor
+Commerce,None,Finance & Accounting Path,Logic & Problem Solving,Online Courses/Learning,Mathematics,B+,21,Chartered Accountant (CA)
+Science,Medical,Research & Development,Science & Experiments,Online Courses/Learning,Law,A,20,Research Scientist
+Commerce,Non-Medical,Business & Management,Innovation & Future Tech,Reading/Books,Mathematics,B+,16,MBA Leadership Roles
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Biology,B+,16,Dentist
+Commerce,None,Law & Legal Services,Law & Policy,Reading/Books,Biology,B+,16,Lawyer / Advocate
+Commerce,None,Design & Creative Arts,Media & Communication,Designing/Creative Work,Design/Arts,B,17,Graphic Designer
+Commerce,None,Economics & Data,Law & Policy,Coding/Technical Projects,Mathematics,B+,20,Data Analyst
+Commerce,None,Law & Legal Services,People Interaction,Reading/Books,Political Science,A,19,Lawyer / Advocate
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Online Courses/Learning,Physics,B+,22,Civil Engineer
+Science,Non-Medical,Data Science & Analytics,Innovation & Future Tech,Coding/Technical Projects,Computer Science,B,22,Software Engineer
+Science,Medical,Medical & Healthcare,Helping & Community,Online Courses/Learning,Biology,A,17,Pharmacist
+Arts,None,Business & Management,Innovation & Future Tech,Online Courses/Learning,Business Management,C,20,MBA Leadership Roles
+Science,Medical,Medical & Healthcare,Innovation & Future Tech,Reading/Books,Biology,C,22,Doctor
+Commerce,None,Finance & Accounting Path,Logic & Problem Solving,Online Courses/Learning,Mathematics,A,19,Chartered Accountant (CA)
+Arts,None,Law & Legal Services,People Interaction,Reading/Books,Computer Science,B+,16,Lawyer / Advocate
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Physics,B,18,Doctor
+Science,Medical,Psychology & Counseling,People Interaction,Online Courses/Learning,Biology,B+,21,Clinical Psychologist
+Arts,None,Psychology & Counseling,People Interaction,Online Courses/Learning,Biology,A+,17,Clinical Psychologist
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Physics,B+,20,Civil Engineer
+Arts,None,Design & Creative Arts,Creativity & Design,Designing/Creative Work,Design/Arts,B+,16,Graphic Designer
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Chemistry,B,16,Dentist
+Commerce,None,Design & Creative Arts,Creativity & Design,Designing/Creative Work,Design/Arts,A,22,Graphic Designer
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Biology,A,22,Dentist
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Biology,B+,17,Dentist
+Science,Medical,Medical & Healthcare,Technology & Computers,Reading/Books,Biology,A,20,Doctor
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Chemistry,A,16,Pharmacist
+Commerce,None,Data Science & Analytics,Business & Money,Online Courses/Learning,Economics,B+,17,Data Scientist
+Science,Non-Medical,Data Science & Analytics,Technology & Computers,Online Courses/Learning,AI/ML/Data Science,A,19,Software Engineer
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Chemistry,A+,22,Dentist
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Biology,A,22,Dentist
+Arts,None,Design & Creative Arts,Media & Communication,Designing/Creative Work,Design/Arts,A+,20,Graphic Designer
+Commerce,None,Law & Legal Services,People Interaction,Reading/Books,Economics,A+,18,Lawyer / Advocate
+Commerce,None,Finance & Accounting Path,Helping & Community,Online Courses/Learning,Economics,A+,21,Chartered Accountant (CA)
+Commerce,None,Economics & Data,Logic & Problem Solving,Coding/Technical Projects,Business Management,A,21,Business Analyst
+Arts,None,Business & Management,Creativity & Design,Reading/Books,Business Management,A+,17,MBA Leadership Roles
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Online Courses/Learning,Physics,C,18,Mechanical Engineer
+Science,Non-Medical,Data Science & Analytics,Logic & Problem Solving,Online Courses/Learning,Physics,A,21,AI Engineer
+Science,Medical,Research & Development,Technology & Computers,Reading/Books,Biology,A+,19,Research Scientist
+Science,Non-Medical,Data Science & Analytics,Innovation & Future Tech,Online Courses/Learning,Computer Science,B+,19,Software Engineer
+Commerce,None,Law & Legal Services,Law & Policy,Online Courses/Learning,Law,A,20,Lawyer / Advocate
+Arts,Non-Medical,Design & Creative Arts,Technology & Computers,Coding/Technical Projects,Computer Science,A,21,UX/UI Designer
+Science,Non-Medical,Data Science & Analytics,Logic & Problem Solving,Online Courses/Learning,Physics,A,17,AI Engineer
+Commerce,None,Law & Legal Services,Law & Policy,Online Courses/Learning,Economics,B+,18,Lawyer / Advocate
+Science,Non-Medical,Data Science & Analytics,Sports & Fitness,Online Courses/Learning,Physics,A,20,AI Engineer
+Arts,None,Media & Journalism,Media & Communication,Reading/Books,Economics,A,20,Journalist
+Science,Non-Medical,Engineering & Technology,Environment & Nature,Coding/Technical Projects,Mathematics,B,19,Civil Engineer
+Commerce,None,Finance & Accounting Path,Logic & Problem Solving,Online Courses/Learning,Mathematics,C,17,Chartered Accountant (CA)
+Science,None,Data Science & Analytics,Business & Money,Online Courses/Learning,Economics,B+,19,Data Analyst
+Science,Non-Medical,Economics & Data,Business & Money,Online Courses/Learning,Economics,B+,18,Data Analyst
+Arts,None,Business & Management,Business & Money,Online Courses/Learning,Computer Science,B,21,Entrepreneur / Startup Founder
+Commerce,None,Government Services,Helping & Community,Online Courses/Learning,Political Science,A+,18,IAS Officer
+Arts,None,Government Services,Creativity & Design,Reading/Books,Political Science,B+,22,IAS Officer
+Science,None,Design & Creative Arts,Creativity & Design,Coding/Technical Projects,Computer Science,B+,16,UX/UI Designer
+Arts,None,Design & Creative Arts,Creativity & Design,Online Courses/Learning,Design/Arts,B,20,Graphic Designer
+Commerce,Non-Medical,Data Science & Analytics,Business & Money,Online Courses/Learning,Economics,A+,19,Data Scientist
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Coding/Technical Projects,Computer Science,A,16,Software Engineer
+Arts,None,Media & Journalism,Media & Communication,Reading/Books,Political Science,B,21,Journalist
+Science,Non-Medical,Engineering & Technology,Science & Experiments,Online Courses/Learning,Mathematics,B+,20,Mechanical Engineer
+Science,None,Business & Management,Business & Money,Online Courses/Learning,Economics,C,19,Entrepreneur / Startup Founder
+Commerce,Non-Medical,Business & Management,Technology & Computers,Coding/Technical Projects,Economics,A,19,Business Analyst
+Arts,None,Law & Policy,Law & Policy,Reading/Books,Law,B,22,IAS Officer
+Commerce,None,Data Science & Analytics,Technology & Computers,Coding/Technical Projects,AI/ML/Data Science,B+,19,Data Scientist
+Science,Medical,Medical & Healthcare,People Interaction,Reading/Books,Biology,A+,20,Dentist
+Science,Non-Medical,Data Science & Analytics,Logic & Problem Solving,Online Courses/Learning,AI/ML/Data Science,C,21,AI Engineer
+Commerce,None,Business & Management,Innovation & Future Tech,Coding/Technical Projects,Economics,B,17,Entrepreneur / Startup Founder
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Biology,A,21,Pharmacist
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Online Courses/Learning,Physics,A,18,Mechanical Engineer
+Science,Non-Medical,Engineering & Technology,Science & Experiments,Coding/Technical Projects,Physics,B+,18,Mechanical Engineer
+Science,None,Business & Management,Innovation & Future Tech,Coding/Technical Projects,Business Management,A+,16,Entrepreneur / Startup Founder
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Chemistry,B,21,Pharmacist
+Commerce,None,Finance & Accounting Path,Business & Money,Online Courses/Learning,Economics,B,17,Chartered Accountant (CA)
+Science,Medical,Medical & Healthcare,Helping & Community,Online Courses/Learning,Mathematics,B+,20,Dentist
+Arts,Non-Medical,Business & Management,Helping & Community,Online Courses/Learning,Economics,A,16,MBA Leadership Roles
+Science,Non-Medical,Engineering & Technology,Science & Experiments,Online Courses/Learning,Physics,A+,20,Mechanical Engineer
+Arts,None,Law & Legal Services,Helping & Community,Reading/Books,Law,A+,16,Lawyer / Advocate
+Commerce,Non-Medical,Economics & Data,Technology & Computers,Coding/Technical Projects,Mathematics,B+,17,Business Analyst
+Science,Medical,Medical & Healthcare,Helping & Community,Reading/Books,Chemistry,B+,19,Pharmacist
+Arts,None,Media & Journalism,Creativity & Design,Reading/Books,Mathematics,A+,16,Journalist
+Commerce,None,Business & Management,Logic & Problem Solving,Coding/Technical Projects,Computer Science,B+,19,Business Analyst
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Biology,B+,21,Doctor
+Science,None,Engineering & Technology,Business & Money,Coding/Technical Projects,AI/ML/Data Science,A,18,Data Scientist
+Science,None,Engineering & Technology,Technology & Computers,Online Courses/Learning,Mathematics,B+,22,Data Scientist
+Commerce,Non-Medical,Economics & Data,Logic & Problem Solving,Coding/Technical Projects,Mathematics,B+,19,Data Analyst
+Science,None,Business & Management,Business & Money,Coding/Technical Projects,Economics,B,17,Entrepreneur / Startup Founder
+Arts,None,Law & Legal Services,People Interaction,Reading/Books,Political Science,B,21,Lawyer / Advocate
+Science,Medical,Medical & Healthcare,Helping & Community,Reading/Books,Chemistry,B+,19,Dentist
+Science,Non-Medical,Economics & Data,Logic & Problem Solving,Online Courses/Learning,Economics,C,19,Data Analyst
+Science,Non-Medical,Data Science & Analytics,Business & Money,Coding/Technical Projects,Computer Science,B+,20,Data Analyst
+Science,Non-Medical,Engineering & Technology,Technology & Computers,Online Courses/Learning,Computer Science,A,20,AI Engineer
+Commerce,None,Law & Legal Services,Law & Policy,Online Courses/Learning,Law,A,19,Lawyer / Advocate
+Science,None,Psychology & Counseling,People Interaction,Online Courses/Learning,Psychology,B,22,Clinical Psychologist
+Science,Non-Medical,Engineering & Technology,Technology & Computers,Coding/Technical Projects,AI/ML/Data Science,A,20,Software Engineer
+Science,Medical,Research & Development,Science & Experiments,Reading/Books,Biology,B+,18,Research Scientist
+Arts,None,Design & Creative Arts,Media & Communication,Designing/Creative Work,Design/Arts,A,19,Graphic Designer
+Commerce,None,Economics & Data,Logic & Problem Solving,Online Courses/Learning,Mathematics,A,16,Business Analyst
+Science,None,Business & Management,Business & Money,Online Courses/Learning,Business Management,A,18,Entrepreneur / Startup Founder
+Commerce,None,Law & Legal Services,Law & Policy,Online Courses/Learning,Chemistry,A,16,Lawyer / Advocate
+Science,Medical,Medical & Healthcare,Sports & Fitness,Reading/Books,Biology,C,16,Pharmacist
+Science,Non-Medical,Engineering & Technology,Science & Experiments,Online Courses/Learning,Physics,A+,21,Mechanical Engineer
+Commerce,None,Media & Journalism,People Interaction,Designing/Creative Work,AI/ML/Data Science,A,19,Journalist
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Biology,C,22,Pharmacist
+Science,None,Design & Creative Arts,Technology & Computers,Designing/Creative Work,Design/Arts,B,21,UX/UI Designer
+Commerce,None,Finance & Accounting Path,Logic & Problem Solving,Reading/Books,Business Management,C,16,Chartered Accountant (CA)
+Science,Non-Medical,Research & Development,Science & Experiments,Reading/Books,Physics,B,16,Research Scientist
+Science,Non-Medical,Engineering & Technology,Science & Experiments,Online Courses/Learning,Mathematics,B,19,Mechanical Engineer
+Science,None,Business & Management,Business & Money,Online Courses/Learning,Economics,B+,17,Business Analyst
+Arts,None,Media & Journalism,Creativity & Design,Designing/Creative Work,Economics,A+,17,Journalist
+Science,Medical,Medical & Healthcare,People Interaction,Online Courses/Learning,Biology,B,20,Doctor
+Science,None,Psychology & Counseling,Helping & Community,Online Courses/Learning,Psychology,A,16,Clinical Psychologist
+Science,Non-Medical,Data Science & Analytics,Science & Experiments,Online Courses/Learning,Chemistry,B,21,AI Engineer
+Science,Non-Medical,Engineering & Technology,Environment & Nature,Online Courses/Learning,Physics,B+,21,Civil Engineer
+Commerce,None,Design & Creative Arts,Logic & Problem Solving,Designing/Creative Work,Computer Science,C,16,UX/UI Designer
+Commerce,None,Economics & Data,Business & Money,Online Courses/Learning,Economics,B,20,Data Analyst
+Commerce,Non-Medical,Design & Creative Arts,Creativity & Design,Designing/Creative Work,Design/Arts,B+,18,UX/UI Designer
+Science,Non-Medical,Engineering & Technology,Science & Experiments,Coding/Technical Projects,Mathematics,B+,19,Mechanical Engineer
+Arts,None,Design & Creative Arts,Technology & Computers,Designing/Creative Work,Design/Arts,A,22,UX/UI Designer
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Chemistry,B+,20,Dentist
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Biology,C,20,Pharmacist
+Science,None,Economics & Data,Business & Money,Coding/Technical Projects,Business Management,B+,21,Business Analyst
+Science,None,Law & Policy,Business & Money,Online Courses/Learning,Law,C,16,IAS Officer
+Arts,Non-Medical,Business & Management,Innovation & Future Tech,Coding/Technical Projects,Economics,C,20,Entrepreneur / Startup Founder
+Science,Medical,Medical & Healthcare,Business & Money,Reading/Books,Chemistry,A+,22,Pharmacist
+Science,Non-Medical,Data Science & Analytics,Logic & Problem Solving,Coding/Technical Projects,AI/ML/Data Science,C,19,Software Engineer
+Science,Medical,Medical & Healthcare,Helping & Community,Online Courses/Learning,Biology,B+,21,Doctor
+Science,Medical,Medical & Healthcare,People Interaction,Reading/Books,Economics,A+,18,Doctor
+Science,None,Government Services,People Interaction,Reading/Books,Physics,A+,18,IAS Officer
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Biology,A+,18,Doctor
+Arts,None,Business & Management,Innovation & Future Tech,Online Courses/Learning,Business Management,A+,18,Entrepreneur / Startup Founder
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Online Courses/Learning,AI/ML/Data Science,B,18,Data Scientist
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Chemistry,A,21,Doctor
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Biology,B+,17,Doctor
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Coding/Technical Projects,Physics,B+,16,Mechanical Engineer
+Science,Non-Medical,Business & Management,People Interaction,Reading/Books,Business Management,B+,20,MBA Leadership Roles
+Science,None,Economics & Data,Media & Communication,Online Courses/Learning,Computer Science,A+,21,Data Analyst
+Commerce,Non-Medical,Business & Management,People Interaction,Reading/Books,Mathematics,A+,18,MBA Leadership Roles
+Arts,Non-Medical,Business & Management,Innovation & Future Tech,Coding/Technical Projects,Business Management,A,18,Entrepreneur / Startup Founder
+Science,Non-Medical,Data Science & Analytics,Innovation & Future Tech,Online Courses/Learning,AI/ML/Data Science,B+,18,AI Engineer
+Science,Medical,Medical & Healthcare,Environment & Nature,Reading/Books,Biology,B+,22,Dentist
+Commerce,None,Law & Legal Services,Law & Policy,Online Courses/Learning,Economics,A+,16,Lawyer / Advocate
+Science,Medical,Medical & Healthcare,Helping & Community,Online Courses/Learning,Biology,A,22,Pharmacist
+Science,Medical,Medical & Healthcare,Helping & Community,Reading/Books,Chemistry,A,21,Dentist
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Business Management,C,22,Software Engineer
+Arts,None,Law & Legal Services,Media & Communication,Reading/Books,Political Science,B,19,Lawyer / Advocate
+Commerce,None,Business & Management,Logic & Problem Solving,Online Courses/Learning,Mathematics,A,21,Business Analyst
+Arts,None,Media & Journalism,People Interaction,Designing/Creative Work,Economics,B,18,Journalist
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Physics,B+,16,Civil Engineer
+Science,Medical,Medical & Healthcare,Helping & Community,Reading/Books,Biology,A,19,Dentist
+Commerce,None,Law & Legal Services,Helping & Community,Reading/Books,Law,C,18,Lawyer / Advocate
+Science,None,Business & Management,Technology & Computers,Coding/Technical Projects,Computer Science,B+,19,Entrepreneur / Startup Founder
+Science,Non-Medical,Engineering & Technology,Environment & Nature,Coding/Technical Projects,Physics,C,20,Civil Engineer
+Science,Non-Medical,Data Science & Analytics,Innovation & Future Tech,Online Courses/Learning,Physics,B+,21,AI Engineer
+Arts,None,Business & Management,Technology & Computers,Online Courses/Learning,Business Management,A,21,Entrepreneur / Startup Founder
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Online Courses/Learning,Mathematics,B+,20,Mechanical Engineer
+Science,None,Business & Management,Logic & Problem Solving,Coding/Technical Projects,Business Management,A,17,Business Analyst
+Science,Medical,Medical & Healthcare,Helping & Community,Online Courses/Learning,Chemistry,C,16,Dentist
+Arts,None,Design & Creative Arts,Media & Communication,Online Courses/Learning,Design/Arts,A,16,Graphic Designer
+Commerce,Non-Medical,Engineering & Technology,Technology & Computers,Online Courses/Learning,Economics,B,22,Data Scientist
+Arts,None,Design & Creative Arts,Creativity & Design,Online Courses/Learning,Design/Arts,A+,22,Graphic Designer
+Commerce,None,Law & Legal Services,People Interaction,Reading/Books,Law,B,19,Lawyer / Advocate
+Commerce,Non-Medical,Business & Management,Business & Money,Coding/Technical Projects,Computer Science,A,20,Entrepreneur / Startup Founder
+Arts,None,Government Services,Helping & Community,Reading/Books,Economics,B+,17,IAS Officer
+Science,Non-Medical,Data Science & Analytics,Logic & Problem Solving,Online Courses/Learning,Computer Science,C,20,Software Engineer
+Commerce,Non-Medical,Business & Management,Environment & Nature,Online Courses/Learning,Business Management,A,19,Entrepreneur / Startup Founder
+Science,Medical,Medical & Healthcare,People Interaction,Online Courses/Learning,Physics,A,17,Doctor
+Science,None,Economics & Data,Technology & Computers,Coding/Technical Projects,Biology,A,16,Data Analyst
+Science,None,Psychology & Counseling,Science & Experiments,Online Courses/Learning,Biology,C,17,Clinical Psychologist
+Science,Non-Medical,Research & Development,Science & Experiments,Reading/Books,Mathematics,A+,21,Research Scientist
+Science,Medical,Medical & Healthcare,People Interaction,Online Courses/Learning,Physics,B+,20,Doctor
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Physics,B+,21,Civil Engineer
+Science,None,Design & Creative Arts,Technology & Computers,Coding/Technical Projects,Design/Arts,A,19,UX/UI Designer
+Science,Medical,Medical & Healthcare,Helping & Community,Online Courses/Learning,Biology,A+,19,Pharmacist
+Arts,Non-Medical,Business & Management,Innovation & Future Tech,Coding/Technical Projects,Law,B+,21,Entrepreneur / Startup Founder
+Science,Non-Medical,Business & Management,Technology & Computers,Online Courses/Learning,Computer Science,B+,18,Entrepreneur / Startup Founder
+Science,None,Engineering & Technology,Technology & Computers,Coding/Technical Projects,Economics,A,22,Data Scientist
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Chemistry,A+,19,Pharmacist
+Arts,None,Business & Management,Creativity & Design,Online Courses/Learning,Mathematics,A+,22,MBA Leadership Roles
+Science,Non-Medical,Design & Creative Arts,Creativity & Design,Coding/Technical Projects,Design/Arts,A+,22,UX/UI Designer
+Arts,None,Design & Creative Arts,Sports & Fitness,Online Courses/Learning,Design/Arts,A,19,Graphic Designer
+Arts,Non-Medical,Design & Creative Arts,Technology & Computers,Designing/Creative Work,Design/Arts,B+,20,UX/UI Designer
+Science,Medical,Research & Development,Logic & Problem Solving,Reading/Books,Biology,C,17,Research Scientist
+Arts,Non-Medical,Business & Management,Creativity & Design,Reading/Books,Business Management,B,18,MBA Leadership Roles
+Arts,None,Law & Policy,Environment & Nature,Reading/Books,Law,C,18,IAS Officer
+Commerce,None,Economics & Data,Technology & Computers,Online Courses/Learning,Mathematics,A,21,Data Analyst
+Science,Medical,Psychology & Counseling,People Interaction,Reading/Books,Psychology,A+,22,Clinical Psychologist
+Arts,Non-Medical,Design & Creative Arts,Creativity & Design,Designing/Creative Work,Design/Arts,B+,22,UX/UI Designer
+Science,Non-Medical,Research & Development,Logic & Problem Solving,Reading/Books,Chemistry,B+,17,Research Scientist
+Science,Non-Medical,Economics & Data,Business & Money,Online Courses/Learning,Chemistry,A+,19,Business Analyst
+Science,Non-Medical,Engineering & Technology,Technology & Computers,Online Courses/Learning,Mathematics,A+,19,Software Engineer
+Science,Non-Medical,Data Science & Analytics,Creativity & Design,Online Courses/Learning,AI/ML/Data Science,B,22,AI Engineer
+Science,Medical,Research & Development,Science & Experiments,Reading/Books,Chemistry,C,22,Research Scientist
+Arts,None,Design & Creative Arts,Media & Communication,Designing/Creative Work,Design/Arts,A,17,Graphic Designer
+Science,Non-Medical,Data Science & Analytics,Technology & Computers,Coding/Technical Projects,AI/ML/Data Science,A+,22,AI Engineer
+Science,Non-Medical,Business & Management,Technology & Computers,Coding/Technical Projects,Economics,A+,18,Business Analyst
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Coding/Technical Projects,Mathematics,B+,21,Mechanical Engineer
+Commerce,Non-Medical,Data Science & Analytics,Technology & Computers,Online Courses/Learning,Computer Science,A,17,Data Analyst
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Physics,A+,17,Civil Engineer
+Science,Non-Medical,Research & Development,Innovation & Future Tech,Reading/Books,AI/ML/Data Science,A,22,Research Scientist
+Science,None,Law & Policy,Technology & Computers,Reading/Books,Economics,A+,19,IAS Officer
+Science,Non-Medical,Data Science & Analytics,Innovation & Future Tech,Online Courses/Learning,Mathematics,A,20,AI Engineer
+Commerce,None,Design & Creative Arts,Media & Communication,Online Courses/Learning,Design/Arts,A,20,Graphic Designer
+Science,None,Business & Management,Innovation & Future Tech,Reading/Books,Mathematics,A,22,MBA Leadership Roles
+Arts,None,Law & Legal Services,People Interaction,Online Courses/Learning,Law,B+,22,Lawyer / Advocate
+Commerce,None,Law & Legal Services,Law & Policy,Reading/Books,Law,B,19,Lawyer / Advocate
+Commerce,None,Media & Journalism,People Interaction,Designing/Creative Work,Political Science,A+,22,Journalist
+Arts,None,Law & Policy,Law & Policy,Online Courses/Learning,Law,B+,16,IAS Officer
+Science,Non-Medical,Engineering & Technology,Environment & Nature,Online Courses/Learning,Mathematics,A,17,Civil Engineer
+Science,Medical,Medical & Healthcare,Environment & Nature,Reading/Books,Economics,A,17,Doctor
+Science,Non-Medical,Engineering & Technology,Sports & Fitness,Coding/Technical Projects,Economics,B,19,Mechanical Engineer
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Coding/Technical Projects,Physics,C,21,Mechanical Engineer
+Arts,None,Law & Legal Services,Law & Policy,Reading/Books,Political Science,B,17,Lawyer / Advocate
+Science,Non-Medical,Business & Management,Technology & Computers,Coding/Technical Projects,Business Management,A+,19,Entrepreneur / Startup Founder
+Science,Non-Medical,Data Science & Analytics,Technology & Computers,Coding/Technical Projects,AI/ML/Data Science,A,20,AI Engineer
+Science,Medical,Research & Development,Science & Experiments,Reading/Books,Chemistry,B+,19,Research Scientist
+Science,Non-Medical,Engineering & Technology,Technology & Computers,Coding/Technical Projects,Computer Science,A+,19,Software Engineer
+Commerce,None,Data Science & Analytics,Logic & Problem Solving,Coding/Technical Projects,Economics,B+,19,Data Scientist
+Science,Medical,Medical & Healthcare,Helping & Community,Online Courses/Learning,Chemistry,B,20,Dentist
+Arts,None,Law & Policy,Law & Policy,Online Courses/Learning,Economics,A+,21,IAS Officer
+Science,Non-Medical,Data Science & Analytics,Innovation & Future Tech,Online Courses/Learning,Computer Science,A,19,AI Engineer
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Online Courses/Learning,Physics,B+,21,Civil Engineer
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Chemistry,B,19,Doctor
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Chemistry,A+,22,Dentist
+Arts,None,Government Services,Law & Policy,Online Courses/Learning,Political Science,B+,21,IAS Officer
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Physics,C,22,Mechanical Engineer
+Science,Non-Medical,Data Science & Analytics,Technology & Computers,Online Courses/Learning,AI/ML/Data Science,A,18,AI Engineer
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Biology,B,17,Pharmacist
+Science,Medical,Medical & Healthcare,Helping & Community,Reading/Books,Biology,A,16,Dentist
+Arts,None,Media & Journalism,Innovation & Future Tech,Reading/Books,Psychology,A,22,Journalist
+Arts,Medical,Psychology & Counseling,People Interaction,Online Courses/Learning,Psychology,B+,17,Clinical Psychologist
+Science,Non-Medical,Data Science & Analytics,Environment & Nature,Coding/Technical Projects,Computer Science,B,16,Software Engineer
+Science,None,Psychology & Counseling,Helping & Community,Online Courses/Learning,Psychology,A+,16,Clinical Psychologist
+Commerce,None,Media & Journalism,Creativity & Design,Reading/Books,Psychology,A+,21,Journalist
+Science,None,Business & Management,Creativity & Design,Coding/Technical Projects,Business Management,A,19,Business Analyst
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Political Science,B,20,Doctor
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Chemistry,A,22,Dentist
+Science,Non-Medical,Data Science & Analytics,Logic & Problem Solving,Coding/Technical Projects,Physics,B+,20,AI Engineer
+Commerce,None,Economics & Data,Business & Money,Coding/Technical Projects,Mathematics,B,20,Data Analyst
+Arts,Medical,Psychology & Counseling,Helping & Community,Reading/Books,Psychology,A+,18,Clinical Psychologist
+Science,None,Government Services,Law & Policy,Reading/Books,Design/Arts,B,18,IAS Officer
+Science,Medical,Research & Development,Technology & Computers,Reading/Books,Mathematics,A,17,Research Scientist
+Arts,None,Design & Creative Arts,Creativity & Design,Online Courses/Learning,Design/Arts,A,17,Graphic Designer
+Science,None,Business & Management,Business & Money,Online Courses/Learning,Economics,B+,16,Entrepreneur / Startup Founder
+Arts,None,Law & Policy,Helping & Community,Reading/Books,Economics,A+,16,IAS Officer
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Design/Arts,A+,17,Pharmacist
+Arts,None,Law & Legal Services,Creativity & Design,Reading/Books,Economics,A+,22,Lawyer / Advocate
+Arts,None,Design & Creative Arts,Creativity & Design,Designing/Creative Work,Design/Arts,B+,21,Graphic Designer
+Science,Non-Medical,Research & Development,Logic & Problem Solving,Reading/Books,Chemistry,B,17,Research Scientist
+Science,Non-Medical,Business & Management,Business & Money,Coding/Technical Projects,Physics,B,18,Entrepreneur / Startup Founder
+Science,None,Government Services,Law & Policy,Reading/Books,Law,B+,17,IAS Officer
+Science,Non-Medical,Business & Management,Business & Money,Reading/Books,Business Management,A,21,MBA Leadership Roles
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Coding/Technical Projects,Physics,A,17,Mechanical Engineer
+Arts,None,Design & Creative Arts,Creativity & Design,Coding/Technical Projects,Computer Science,A,18,UX/UI Designer
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Mathematics,B,16,Pharmacist
+Commerce,Non-Medical,Economics & Data,Law & Policy,Online Courses/Learning,Mathematics,B+,18,Data Analyst
+Commerce,None,Design & Creative Arts,Media & Communication,Designing/Creative Work,Design/Arts,B+,22,Graphic Designer
+Commerce,None,Media & Journalism,People Interaction,Reading/Books,Economics,B+,18,Journalist
+Commerce,None,Media & Journalism,Law & Policy,Designing/Creative Work,Economics,B,21,Journalist
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Online Courses/Learning,Business Management,B+,20,Software Engineer
+Science,None,Psychology & Counseling,Helping & Community,Reading/Books,Biology,B+,20,Clinical Psychologist
+Science,None,Business & Management,Innovation & Future Tech,Coding/Technical Projects,Economics,B+,17,Entrepreneur / Startup Founder
+Arts,Non-Medical,Business & Management,People Interaction,Reading/Books,Economics,B,16,MBA Leadership Roles
+Science,Non-Medical,Research & Development,Science & Experiments,Reading/Books,Biology,A,18,Research Scientist
+Commerce,None,Economics & Data,Business & Money,Online Courses/Learning,Economics,B+,20,Data Analyst
+Science,Non-Medical,Engineering & Technology,Business & Money,Online Courses/Learning,Physics,A+,20,Civil Engineer
+Commerce,Non-Medical,Design & Creative Arts,Technology & Computers,Designing/Creative Work,Design/Arts,C,22,UX/UI Designer
+Arts,Non-Medical,Business & Management,Innovation & Future Tech,Online Courses/Learning,Economics,A+,20,MBA Leadership Roles
+Science,Non-Medical,Research & Development,Science & Experiments,Online Courses/Learning,Mathematics,B+,18,Research Scientist
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Online Courses/Learning,AI/ML/Data Science,A,19,Software Engineer
+Science,Non-Medical,Engineering & Technology,Science & Experiments,Online Courses/Learning,Physics,A,16,Mechanical Engineer
+Commerce,Non-Medical,Business & Management,Technology & Computers,Coding/Technical Projects,Mathematics,B+,22,Business Analyst
+Science,None,Design & Creative Arts,Technology & Computers,Coding/Technical Projects,Design/Arts,C,20,UX/UI Designer
+Science,Non-Medical,Engineering & Technology,Technology & Computers,Online Courses/Learning,AI/ML/Data Science,B+,19,AI Engineer
+Science,Non-Medical,Economics & Data,Logic & Problem Solving,Coding/Technical Projects,Computer Science,B+,18,Business Analyst
+Science,Non-Medical,Data Science & Analytics,Technology & Computers,Coding/Technical Projects,Mathematics,A+,19,Data Analyst
+Commerce,Non-Medical,Data Science & Analytics,Science & Experiments,Online Courses/Learning,Economics,A+,21,Data Scientist
+Commerce,None,Media & Journalism,Creativity & Design,Designing/Creative Work,Economics,A+,20,Journalist
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Online Courses/Learning,AI/ML/Data Science,B,18,AI Engineer
+Science,None,Data Science & Analytics,Business & Money,Coding/Technical Projects,AI/ML/Data Science,A+,19,Data Analyst
+Science,Non-Medical,Engineering & Technology,Technology & Computers,Coding/Technical Projects,Computer Science,C,18,Data Scientist
+Science,Medical,Medical & Healthcare,Helping & Community,Online Courses/Learning,Chemistry,B+,21,Dentist
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Biology,A,18,Doctor
+Commerce,None,Finance & Accounting Path,Logic & Problem Solving,Reading/Books,Mathematics,B,21,Chartered Accountant (CA)
+Commerce,Non-Medical,Design & Creative Arts,Creativity & Design,Designing/Creative Work,Design/Arts,C,19,UX/UI Designer
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Chemistry,B,16,Pharmacist
+Arts,Non-Medical,Business & Management,People Interaction,Online Courses/Learning,Business Management,B,21,MBA Leadership Roles
+Science,Medical,Medical & Healthcare,People Interaction,Online Courses/Learning,Physics,C,21,Doctor
+Commerce,None,Engineering & Technology,Technology & Computers,Coding/Technical Projects,Computer Science,B,22,Data Scientist
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Design/Arts,A+,18,Civil Engineer
+Science,Medical,Psychology & Counseling,People Interaction,Online Courses/Learning,Biology,A,20,Clinical Psychologist
+Commerce,None,Finance & Accounting Path,Logic & Problem Solving,Reading/Books,Business Management,B,19,Chartered Accountant (CA)
+Commerce,Non-Medical,Design & Creative Arts,Business & Money,Coding/Technical Projects,Design/Arts,B,22,UX/UI Designer
+Arts,None,Media & Journalism,Creativity & Design,Designing/Creative Work,Psychology,A+,17,Journalist
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Economics,B+,17,Dentist
+Arts,None,Media & Journalism,Science & Experiments,Designing/Creative Work,Political Science,C,21,Journalist
+Science,Medical,Psychology & Counseling,Helping & Community,Online Courses/Learning,Biology,A,21,Clinical Psychologist
+Arts,None,Law & Policy,Creativity & Design,Reading/Books,Political Science,B+,20,IAS Officer
+Science,Non-Medical,Engineering & Technology,Environment & Nature,Online Courses/Learning,Physics,A,16,Civil Engineer
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Chemistry,C,18,Pharmacist
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Online Courses/Learning,AI/ML/Data Science,B+,20,AI Engineer
+Science,None,Economics & Data,Environment & Nature,Online Courses/Learning,Economics,A,16,Business Analyst
+Commerce,Non-Medical,Economics & Data,Logic & Problem Solving,Coding/Technical Projects,Mathematics,A,19,Business Analyst
+Science,None,Economics & Data,Logic & Problem Solving,Coding/Technical Projects,Economics,A+,21,Business Analyst
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Mathematics,A+,19,Civil Engineer
+Science,Medical,Research & Development,Logic & Problem Solving,Reading/Books,Business Management,C,17,Research Scientist
+Commerce,None,Finance & Accounting Path,Media & Communication,Online Courses/Learning,Law,B+,16,Chartered Accountant (CA)
+Commerce,Non-Medical,Economics & Data,Media & Communication,Coding/Technical Projects,Mathematics,A,21,Data Analyst
+Science,Non-Medical,Data Science & Analytics,Media & Communication,Coding/Technical Projects,Computer Science,A+,18,Software Engineer
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Chemistry,A,22,Dentist
+Arts,None,Business & Management,Business & Money,Reading/Books,Business Management,A,22,MBA Leadership Roles
+Arts,Medical,Psychology & Counseling,People Interaction,Reading/Books,Biology,B+,22,Clinical Psychologist
+Science,Medical,Medical & Healthcare,People Interaction,Reading/Books,Chemistry,A,20,Pharmacist
+Science,Medical,Medical & Healthcare,Creativity & Design,Reading/Books,Chemistry,A,20,Dentist
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Chemistry,A+,20,Pharmacist
+Science,Non-Medical,Research & Development,Sports & Fitness,Reading/Books,Biology,B,20,Research Scientist
+Science,Medical,Medical & Healthcare,Helping & Community,Online Courses/Learning,Chemistry,A,17,Doctor
+Commerce,None,Media & Journalism,Creativity & Design,Designing/Creative Work,Political Science,A,22,Journalist
+Arts,None,Media & Journalism,Creativity & Design,Reading/Books,Political Science,B+,19,Journalist
+Commerce,None,Design & Creative Arts,Creativity & Design,Designing/Creative Work,Design/Arts,A+,22,Graphic Designer
+Science,Medical,Medical & Healthcare,People Interaction,Online Courses/Learning,Biology,C,22,Doctor
+Arts,Medical,Psychology & Counseling,People Interaction,Reading/Books,Biology,B,20,Clinical Psychologist
+Arts,None,Law & Policy,People Interaction,Online Courses/Learning,Law,A,18,IAS Officer
+Science,None,Design & Creative Arts,Creativity & Design,Designing/Creative Work,Computer Science,B,18,UX/UI Designer
+Arts,None,Media & Journalism,Creativity & Design,Designing/Creative Work,Psychology,A+,22,Journalist
+Science,None,Business & Management,Law & Policy,Coding/Technical Projects,Business Management,A,17,Business Analyst
+Science,None,Psychology & Counseling,Helping & Community,Online Courses/Learning,Biology,A+,20,Clinical Psychologist
+Science,None,Data Science & Analytics,Business & Money,Coding/Technical Projects,Mathematics,B+,16,Data Scientist
+Science,None,Economics & Data,Business & Money,Online Courses/Learning,Economics,A+,20,Data Analyst
+Science,Non-Medical,Data Science & Analytics,Business & Money,Coding/Technical Projects,Economics,B,17,Data Analyst
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Chemistry,A+,16,Pharmacist
+Science,Medical,Medical & Healthcare,Helping & Community,Online Courses/Learning,Chemistry,A,22,Pharmacist
+Science,Medical,Medical & Healthcare,Sports & Fitness,Online Courses/Learning,Chemistry,B+,21,Doctor
+Science,Non-Medical,Economics & Data,Business & Money,Coding/Technical Projects,Computer Science,A,21,Data Analyst
+Arts,None,Media & Journalism,People Interaction,Designing/Creative Work,Psychology,A+,19,Journalist
+Commerce,Non-Medical,Data Science & Analytics,Business & Money,Coding/Technical Projects,Computer Science,A+,22,Data Analyst
+Commerce,None,Data Science & Analytics,Technology & Computers,Coding/Technical Projects,Political Science,B,19,Data Scientist
+Science,Non-Medical,Engineering & Technology,Science & Experiments,Online Courses/Learning,Physics,A,17,Mechanical Engineer
+Commerce,None,Government Services,People Interaction,Reading/Books,Economics,A+,22,IAS Officer
+Arts,None,Business & Management,Technology & Computers,Online Courses/Learning,Computer Science,A,21,Entrepreneur / Startup Founder
+Science,Non-Medical,Data Science & Analytics,Logic & Problem Solving,Coding/Technical Projects,AI/ML/Data Science,C,21,AI Engineer
+Commerce,None,Design & Creative Arts,Media & Communication,Designing/Creative Work,Design/Arts,A,19,Graphic Designer
+Science,Non-Medical,Engineering & Technology,Business & Money,Online Courses/Learning,Mathematics,A+,16,Civil Engineer
+Science,Non-Medical,Engineering & Technology,Technology & Computers,Coding/Technical Projects,Mathematics,A,16,Software Engineer
+Commerce,None,Law & Legal Services,Media & Communication,Online Courses/Learning,Law,A,21,Lawyer / Advocate
+Science,Non-Medical,Business & Management,People Interaction,Reading/Books,Mathematics,A+,18,MBA Leadership Roles
+Commerce,None,Finance & Accounting Path,Business & Money,Reading/Books,Mathematics,B,21,Chartered Accountant (CA)
+Commerce,None,Finance & Accounting Path,Business & Money,Reading/Books,Business Management,A,16,Chartered Accountant (CA)
+Science,Non-Medical,Engineering & Technology,Business & Money,Online Courses/Learning,Computer Science,B,17,Data Scientist
+Science,Non-Medical,Data Science & Analytics,Technology & Computers,Online Courses/Learning,Computer Science,B+,18,Software Engineer
+Commerce,None,Finance & Accounting Path,Logic & Problem Solving,Reading/Books,Mathematics,B+,22,Chartered Accountant (CA)
+Science,None,Psychology & Counseling,Helping & Community,Online Courses/Learning,Biology,A,18,Clinical Psychologist
+Commerce,Non-Medical,Economics & Data,Technology & Computers,Coding/Technical Projects,Business Management,A,18,Business Analyst
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Online Courses/Learning,AI/ML/Data Science,B+,20,Software Engineer
+Arts,None,Media & Journalism,Media & Communication,Designing/Creative Work,Psychology,C,18,Journalist
+Science,Medical,Research & Development,Innovation & Future Tech,Online Courses/Learning,Mathematics,B+,18,Research Scientist
+Commerce,None,Law & Legal Services,Law & Policy,Online Courses/Learning,Psychology,C,20,Lawyer / Advocate
+Science,None,Business & Management,Technology & Computers,Coding/Technical Projects,Computer Science,B,19,Entrepreneur / Startup Founder
+Science,Medical,Psychology & Counseling,People Interaction,Online Courses/Learning,Biology,A,16,Clinical Psychologist
+Arts,None,Design & Creative Arts,Media & Communication,Online Courses/Learning,Design/Arts,C,16,Graphic Designer
+Science,Medical,Medical & Healthcare,People Interaction,Reading/Books,Chemistry,A,21,Pharmacist
+Commerce,None,Design & Creative Arts,Media & Communication,Online Courses/Learning,Design/Arts,C,18,Graphic Designer
+Commerce,None,Government Services,Law & Policy,Reading/Books,Economics,C,17,IAS Officer
+Commerce,None,Government Services,Law & Policy,Reading/Books,Political Science,B,21,IAS Officer
+Commerce,None,Law & Legal Services,People Interaction,Reading/Books,Law,C,22,Lawyer / Advocate
+Arts,None,Psychology & Counseling,People Interaction,Online Courses/Learning,Biology,A,19,Clinical Psychologist
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Biology,C,18,Dentist
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Online Courses/Learning,Psychology,A+,16,Civil Engineer
+Arts,Non-Medical,Business & Management,People Interaction,Online Courses/Learning,Economics,A,18,MBA Leadership Roles
+Science,Non-Medical,Engineering & Technology,Business & Money,Online Courses/Learning,Physics,B+,22,Civil Engineer
+Science,Non-Medical,Data Science & Analytics,Innovation & Future Tech,Coding/Technical Projects,Computer Science,B+,16,Software Engineer
+Science,Non-Medical,Engineering & Technology,Environment & Nature,Coding/Technical Projects,Mathematics,B,21,Civil Engineer
+Science,Non-Medical,Research & Development,Innovation & Future Tech,Reading/Books,Physics,A+,21,Research Scientist
+Arts,None,Psychology & Counseling,People Interaction,Reading/Books,Biology,A,17,Clinical Psychologist
+Commerce,None,Finance & Accounting Path,Logic & Problem Solving,Online Courses/Learning,Economics,A,18,Chartered Accountant (CA)
+Commerce,None,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Chemistry,A,22,Data Scientist
+Arts,None,Law & Legal Services,Media & Communication,Reading/Books,Law,A,18,Lawyer / Advocate
+Arts,Non-Medical,Design & Creative Arts,Technology & Computers,Coding/Technical Projects,Design/Arts,A,16,UX/UI Designer
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Coding/Technical Projects,Computer Science,B+,16,Software Engineer
+Arts,None,Law & Legal Services,People Interaction,Online Courses/Learning,Economics,A+,19,Lawyer / Advocate
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Mathematics,A,18,Mechanical Engineer
+Science,Non-Medical,Engineering & Technology,Science & Experiments,Online Courses/Learning,Mathematics,A+,18,Mechanical Engineer
+Commerce,None,Law & Legal Services,Media & Communication,Reading/Books,Political Science,A,19,Lawyer / Advocate
+Commerce,None,Finance & Accounting Path,Helping & Community,Online Courses/Learning,Business Management,B+,17,Chartered Accountant (CA)
+Science,None,Data Science & Analytics,Technology & Computers,Online Courses/Learning,Economics,A,17,Data Analyst
+Arts,None,Design & Creative Arts,Media & Communication,Online Courses/Learning,Design/Arts,A,21,Graphic Designer
+Science,Medical,Medical & Healthcare,Science & Experiments,Reading/Books,Physics,B+,19,Doctor
+Science,None,Economics & Data,Technology & Computers,Coding/Technical Projects,Economics,B,21,Data Analyst
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Online Courses/Learning,Physics,A+,16,Mechanical Engineer
+Arts,Non-Medical,Design & Creative Arts,Technology & Computers,Coding/Technical Projects,Computer Science,A+,18,UX/UI Designer
+Science,Non-Medical,Engineering & Technology,Technology & Computers,Online Courses/Learning,Computer Science,B+,19,AI Engineer
+Commerce,None,Design & Creative Arts,Creativity & Design,Online Courses/Learning,Design/Arts,C,21,Graphic Designer
+Science,Non-Medical,Business & Management,Sports & Fitness,Reading/Books,Mathematics,B,16,MBA Leadership Roles
+Science,Non-Medical,Business & Management,People Interaction,Reading/Books,Mathematics,A+,19,MBA Leadership Roles
+Science,Non-Medical,Data Science & Analytics,Innovation & Future Tech,Coding/Technical Projects,AI/ML/Data Science,A+,22,Software Engineer
+Arts,None,Government Services,Media & Communication,Reading/Books,Political Science,A,19,IAS Officer
+Commerce,Non-Medical,Economics & Data,Technology & Computers,Online Courses/Learning,Mathematics,A,16,Data Analyst
+Commerce,None,Law & Policy,Helping & Community,Reading/Books,Law,A+,19,IAS Officer
+Science,None,Design & Creative Arts,Logic & Problem Solving,Designing/Creative Work,Computer Science,A,22,UX/UI Designer
+Arts,None,Business & Management,Technology & Computers,Coding/Technical Projects,Economics,B+,17,Entrepreneur / Startup Founder
+Arts,None,Media & Journalism,Logic & Problem Solving,Reading/Books,Psychology,A,20,Journalist
+Science,Non-Medical,Data Science & Analytics,Technology & Computers,Coding/Technical Projects,Physics,A,21,AI Engineer
+Science,Non-Medical,Research & Development,Logic & Problem Solving,Reading/Books,Physics,A,22,Research Scientist
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Biology,B,20,Pharmacist
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Physics,C,19,Civil Engineer
+Science,Non-Medical,Data Science & Analytics,Technology & Computers,Online Courses/Learning,AI/ML/Data Science,A+,21,Software Engineer
+Commerce,None,Engineering & Technology,Logic & Problem Solving,Online Courses/Learning,Economics,A,22,Data Scientist
+Arts,None,Psychology & Counseling,People Interaction,Reading/Books,Psychology,A+,16,Clinical Psychologist
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Biology,A,19,Dentist
+Science,Non-Medical,Research & Development,Logic & Problem Solving,Reading/Books,Chemistry,B,21,Research Scientist
+Commerce,None,Finance & Accounting Path,Logic & Problem Solving,Online Courses/Learning,Design/Arts,B+,21,Chartered Accountant (CA)
+Science,Non-Medical,Engineering & Technology,Technology & Computers,Online Courses/Learning,Mathematics,A,16,AI Engineer
+Science,Medical,Medical & Healthcare,People Interaction,Reading/Books,Physics,B+,22,Doctor
+Science,Non-Medical,Engineering & Technology,Environment & Nature,Coding/Technical Projects,Mathematics,B,17,Civil Engineer
+Commerce,None,Finance & Accounting Path,Logic & Problem Solving,Reading/Books,Economics,A+,21,Chartered Accountant (CA)
+Arts,None,Media & Journalism,Business & Money,Designing/Creative Work,Economics,A,22,Journalist
+Arts,Medical,Psychology & Counseling,People Interaction,Reading/Books,Psychology,A,19,Clinical Psychologist
+Science,Non-Medical,Data Science & Analytics,Innovation & Future Tech,Coding/Technical Projects,AI/ML/Data Science,A+,19,Software Engineer
+Arts,None,Media & Journalism,People Interaction,Designing/Creative Work,Psychology,B+,20,Journalist
+Arts,None,Business & Management,Innovation & Future Tech,Online Courses/Learning,Computer Science,B,18,Entrepreneur / Startup Founder
+Commerce,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Economics,B+,18,Data Scientist
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Chemistry,B+,20,Dentist
+Commerce,Non-Medical,Business & Management,Technology & Computers,Coding/Technical Projects,Business Management,B+,20,Entrepreneur / Startup Founder
+Science,None,Business & Management,Business & Money,Online Courses/Learning,Business Management,B+,22,MBA Leadership Roles
+Commerce,None,Engineering & Technology,Technology & Computers,Online Courses/Learning,Economics,B+,21,Data Scientist
+Arts,Non-Medical,Design & Creative Arts,Technology & Computers,Coding/Technical Projects,Design/Arts,C,17,UX/UI Designer
+Arts,Medical,Psychology & Counseling,People Interaction,Reading/Books,Biology,A+,22,Clinical Psychologist
+Commerce,None,Design & Creative Arts,Media & Communication,Online Courses/Learning,Chemistry,B+,21,Graphic Designer
+Arts,None,Design & Creative Arts,Media & Communication,Designing/Creative Work,Design/Arts,A,19,Graphic Designer
+Science,Non-Medical,Business & Management,Business & Money,Coding/Technical Projects,Mathematics,B+,22,Business Analyst
+Commerce,None,Finance & Accounting Path,Media & Communication,Online Courses/Learning,Economics,B+,17,Chartered Accountant (CA)
+Commerce,None,Government Services,People Interaction,Reading/Books,Political Science,B+,22,IAS Officer
+Science,Non-Medical,Business & Management,Business & Money,Reading/Books,Mathematics,C,21,MBA Leadership Roles
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Online Courses/Learning,Computer Science,B+,17,Software Engineer
+Science,Non-Medical,Economics & Data,Business & Money,Coding/Technical Projects,Mathematics,B+,19,Business Analyst
+Commerce,None,Design & Creative Arts,Helping & Community,Online Courses/Learning,Design/Arts,B,17,Graphic Designer
+Commerce,None,Media & Journalism,Creativity & Design,Reading/Books,Economics,A+,19,Journalist
+Science,Non-Medical,Engineering & Technology,Environment & Nature,Online Courses/Learning,Mathematics,A+,20,Civil Engineer
+Commerce,Non-Medical,Engineering & Technology,Business & Money,Coding/Technical Projects,AI/ML/Data Science,A,17,Data Scientist
+Science,Non-Medical,Data Science & Analytics,Logic & Problem Solving,Online Courses/Learning,Mathematics,A,22,Data Scientist
+Commerce,None,Design & Creative Arts,Technology & Computers,Coding/Technical Projects,Computer Science,A,20,UX/UI Designer
+Science,Non-Medical,Engineering & Technology,Technology & Computers,Online Courses/Learning,Mathematics,A+,18,Software Engineer
+Science,Medical,Research & Development,Science & Experiments,Reading/Books,Chemistry,C,19,Research Scientist
+Science,None,Business & Management,People Interaction,Online Courses/Learning,Mathematics,A,22,MBA Leadership Roles
+Commerce,Non-Medical,Design & Creative Arts,Technology & Computers,Coding/Technical Projects,Computer Science,A,22,UX/UI Designer
+Arts,Medical,Psychology & Counseling,People Interaction,Online Courses/Learning,Psychology,B+,16,Clinical Psychologist
+Commerce,None,Business & Management,Technology & Computers,Online Courses/Learning,Economics,A,17,Business Analyst
+Science,Non-Medical,Business & Management,Business & Money,Online Courses/Learning,Mathematics,A+,17,Business Analyst
+Commerce,Non-Medical,Design & Creative Arts,Logic & Problem Solving,Coding/Technical Projects,Computer Science,B,22,UX/UI Designer
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Coding/Technical Projects,AI/ML/Data Science,B+,20,Software Engineer
+Science,None,Law & Policy,Law & Policy,Online Courses/Learning,Law,A,19,IAS Officer
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Mathematics,C,17,Mechanical Engineer
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Mathematics,B,18,Civil Engineer
+Science,None,Economics & Data,Sports & Fitness,Online Courses/Learning,Mathematics,A,20,Data Analyst
+Science,Non-Medical,Engineering & Technology,Helping & Community,Online Courses/Learning,Mathematics,A,21,Civil Engineer
+Science,None,Design & Creative Arts,Technology & Computers,Coding/Technical Projects,Design/Arts,B+,20,UX/UI Designer
+Science,Non-Medical,Engineering & Technology,Environment & Nature,Coding/Technical Projects,Mathematics,A+,22,AI Engineer
+Science,Medical,Medical & Healthcare,Helping & Community,Reading/Books,Biology,A+,20,Pharmacist
+Science,Non-Medical,Research & Development,Logic & Problem Solving,Online Courses/Learning,Biology,A+,18,Research Scientist
+Science,Medical,Research & Development,Logic & Problem Solving,Online Courses/Learning,Chemistry,A,22,Research Scientist
+Arts,None,Law & Legal Services,Business & Money,Reading/Books,Law,B+,21,Lawyer / Advocate
+Commerce,None,Economics & Data,Technology & Computers,Online Courses/Learning,Economics,A,21,Data Analyst
+Science,Medical,Psychology & Counseling,Helping & Community,Reading/Books,Psychology,B+,19,Clinical Psychologist
+Science,Medical,Research & Development,Science & Experiments,Online Courses/Learning,Biology,A+,17,Research Scientist
+Science,Non-Medical,Design & Creative Arts,Logic & Problem Solving,Coding/Technical Projects,Computer Science,B,19,UX/UI Designer
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Online Courses/Learning,Mathematics,A,22,Mechanical Engineer
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Physics,C,22,Mechanical Engineer
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Biology,A,20,Doctor
+Commerce,Non-Medical,Data Science & Analytics,Business & Money,Online Courses/Learning,Economics,B+,17,Data Analyst
+Science,None,Government Services,People Interaction,Reading/Books,Law,A,20,IAS Officer
+Science,Non-Medical,Data Science & Analytics,Innovation & Future Tech,Online Courses/Learning,Physics,B,17,AI Engineer
+Science,Non-Medical,Data Science & Analytics,Technology & Computers,Coding/Technical Projects,Mathematics,A,16,Data Scientist
+Science,Medical,Medical & Healthcare,Business & Money,Online Courses/Learning,Biology,A+,22,Dentist
+Science,None,Psychology & Counseling,Helping & Community,Reading/Books,Psychology,A,20,Clinical Psychologist
+Commerce,None,Finance & Accounting Path,Business & Money,Online Courses/Learning,Business Management,B+,22,Chartered Accountant (CA)
+Commerce,None,Law & Policy,Creativity & Design,Reading/Books,Political Science,A,19,IAS Officer
+Arts,None,Media & Journalism,People Interaction,Designing/Creative Work,Economics,B,16,Journalist
+Commerce,None,Finance & Accounting Path,Business & Money,Reading/Books,Mathematics,A,17,Chartered Accountant (CA)
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Coding/Technical Projects,Mathematics,A+,16,Mechanical Engineer
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Biology,B+,20,Dentist
+Commerce,None,Media & Journalism,People Interaction,Reading/Books,Political Science,B+,19,Journalist
+Commerce,None,Design & Creative Arts,Creativity & Design,Online Courses/Learning,Design/Arts,B+,20,Graphic Designer
+Commerce,None,Finance & Accounting Path,Logic & Problem Solving,Reading/Books,Business Management,B+,22,Chartered Accountant (CA)
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Online Courses/Learning,Mathematics,A,17,Mechanical Engineer
+Commerce,Non-Medical,Business & Management,Innovation & Future Tech,Online Courses/Learning,Economics,C,21,MBA Leadership Roles
+Science,Medical,Medical & Healthcare,Helping & Community,Online Courses/Learning,Biology,A+,22,Dentist
+Arts,Non-Medical,Design & Creative Arts,Technology & Computers,Designing/Creative Work,Computer Science,A,16,UX/UI Designer
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Biology,B+,16,Pharmacist
+Science,Medical,Medical & Healthcare,Helping & Community,Online Courses/Learning,Political Science,A+,20,Pharmacist
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Online Courses/Learning,Physics,A+,20,Civil Engineer
+Science,Non-Medical,Data Science & Analytics,Helping & Community,Online Courses/Learning,Physics,A,20,AI Engineer
+Commerce,None,Business & Management,Helping & Community,Online Courses/Learning,Mathematics,B+,21,MBA Leadership Roles
+Commerce,None,Media & Journalism,People Interaction,Reading/Books,Political Science,B+,21,Journalist
+Commerce,None,Finance & Accounting Path,Technology & Computers,Online Courses/Learning,Mathematics,C,19,Chartered Accountant (CA)
+Science,Non-Medical,Design & Creative Arts,Logic & Problem Solving,Coding/Technical Projects,Design/Arts,A+,16,UX/UI Designer
+Science,Non-Medical,Business & Management,Logic & Problem Solving,Coding/Technical Projects,Business Management,B,19,Business Analyst
+Science,Medical,Medical & Healthcare,People Interaction,Online Courses/Learning,Chemistry,B,17,Doctor
+Commerce,Non-Medical,Business & Management,People Interaction,Online Courses/Learning,Biology,A,18,MBA Leadership Roles
+Science,Medical,Medical & Healthcare,Helping & Community,Reading/Books,Chemistry,A,21,Pharmacist
+Science,Medical,Medical & Healthcare,People Interaction,Online Courses/Learning,Chemistry,B+,19,Doctor
+Commerce,Non-Medical,Business & Management,People Interaction,Reading/Books,Mathematics,A+,16,MBA Leadership Roles
+Science,Medical,Medical & Healthcare,Science & Experiments,Online Courses/Learning,Psychology,A,22,Pharmacist
+Commerce,None,Finance & Accounting Path,Logic & Problem Solving,Reading/Books,Mathematics,A,22,Chartered Accountant (CA)
+Commerce,Non-Medical,Design & Creative Arts,Creativity & Design,Coding/Technical Projects,Computer Science,B,19,UX/UI Designer
+Science,None,Psychology & Counseling,People Interaction,Reading/Books,Biology,A+,20,Clinical Psychologist
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Online Courses/Learning,Economics,A,21,Mechanical Engineer
+Science,Non-Medical,Economics & Data,Technology & Computers,Online Courses/Learning,Mathematics,A+,19,Business Analyst
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Mathematics,A+,19,AI Engineer
+Science,Medical,Medical & Healthcare,People Interaction,Online Courses/Learning,Chemistry,A+,18,Doctor
+Arts,Non-Medical,Business & Management,Innovation & Future Tech,Coding/Technical Projects,Biology,A,19,Entrepreneur / Startup Founder
+Science,Non-Medical,Engineering & Technology,Sports & Fitness,Coding/Technical Projects,Physics,B+,19,Civil Engineer
+Science,Non-Medical,Engineering & Technology,Technology & Computers,Coding/Technical Projects,AI/ML/Data Science,A,17,Software Engineer
+Science,Non-Medical,Research & Development,Innovation & Future Tech,Reading/Books,Biology,A+,17,Research Scientist
+Commerce,None,Finance & Accounting Path,Logic & Problem Solving,Online Courses/Learning,Economics,B,20,Chartered Accountant (CA)
+Science,None,Data Science & Analytics,Business & Money,Online Courses/Learning,Economics,A+,16,Data Analyst
+Science,None,Engineering & Technology,Logic & Problem Solving,Online Courses/Learning,AI/ML/Data Science,A,22,Data Scientist
+Science,Medical,Medical & Healthcare,People Interaction,Reading/Books,Biology,C,22,Doctor
+Science,Non-Medical,Engineering & Technology,Logic & Problem Solving,Coding/Technical Projects,Economics,A+,21,Data Scientist
+Science,Non-Medical,Engineering & Technology,Innovation & Future Tech,Online Courses/Learning,Physics,A+,20,Mechanical Engineer
+Arts,None,Psychology & Counseling,Helping & Community,Reading/Books,Psychology,B+,18,Clinical Psychologist
+Commerce,None,Economics & Data,Logic & Problem Solving,Online Courses/Learning,Computer Science,B,16,Business Analyst
+Commerce,Non-Medical,Design & Creative Arts,Technology & Computers,Designing/Creative Work,Design/Arts,A,20,UX/UI Designer
+Science,Non-Medical,Business & Management,Business & Money,Reading/Books,Economics,C,20,MBA Leadership Roles
+Commerce,None,Government Services,Helping & Community,Online Courses/Learning,Political Science,B+,17,IAS Officer
+Commerce,None,Media & Journalism,Creativity & Design,Reading/Books,Economics,A+,22,Journalist
+Science,None,Data Science & Analytics,Technology & Computers,Coding/Technical Projects,Computer Science,B+,20,Data Scientist

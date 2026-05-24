@@ -1,0 +1,150 @@
+{
+  "Software Engineer": {
+    "description": "Design, develop, and maintain software systems and applications. Work across various domains like web development, mobile apps, AI systems, and enterprise software.",
+    "education": ["Bachelor's in Computer Science", "Bachelor's in Software Engineering", "Master's in Computer Science"],
+    "skills": ["Programming", "Algorithms", "Data Structures", "Software Design", "Testing", "Debugging"],
+    "salary": "₹6-25 LPA (Fresh Graduate: ₹6-12 LPA, Senior: ₹15-25 LPA+)",
+    "market": "High demand with 20%+ growth expected. Opportunities in IT services, product companies, startups.",
+    "pros": ["High salary potential", "Remote work options", "Continuous learning", "Global opportunities"],
+    "cons": ["Long working hours sometimes", "Need to constantly update skills", "Can be stressful with deadlines"],
+    "roadmap": [
+      "Complete 12th with PCM/CS",
+      "Crack JEE/State CET for B.Tech CSE or pursue BCA",
+      "Learn programming languages (Python/Java/C++)",
+      "Build projects and contribute to GitHub",
+      "Intern at IT companies",
+      "Prepare for technical interviews"
+    ]
+  },
+  "Data Scientist": {
+    "description": "Extract insights from complex data using statistical analysis, machine learning, and data visualization techniques.",
+    "education": ["Bachelor's in Computer Science/Statistics", "Master's in Data Science", "MBA in Analytics"],
+    "skills": ["Python/R", "Machine Learning", "Statistics", "SQL", "Data Visualization"],
+    "salary": "₹8-30 LPA (Fresh: ₹8-15 LPA, Senior: ₹20-30 LPA+)",
+    "market": "Rapidly growing field with high demand across industries like finance, healthcare, e-commerce.",
+    "pros": ["High demand", "Good compensation", "Work with cutting-edge technology", "Impactful insights"],
+    "cons": ["Need strong mathematical background", "Data quality issues", "Complex problem-solving"],
+    "roadmap": [
+      "Complete 12th with PCM/CS",
+      "Pursue B.Tech/B.Sc in CS/Statistics/Mathematics",
+      "Learn Python, SQL, and statistics",
+      "Master ML frameworks (TensorFlow, scikit-learn)",
+      "Build data science projects",
+      "Pursue internships and certifications"
+    ]
+  },
+  "Doctor": {
+    "description": "Medical professional diagnosing and treating illnesses, injuries, and providing healthcare services to patients.",
+    "education": ["MBBS (5.5 years)", "MD/MS for specialization", "Residency Training"],
+    "skills": ["Medical Knowledge", "Diagnosis", "Patient Care", "Communication", "Emergency Handling"],
+    "salary": "₹10-50 LPA (Junior: ₹10-15 LPA, Specialist: ₹25-50 LPA+)",
+    "market": "Always in demand with stable career prospects. Opportunities in hospitals, clinics, research.",
+    "pros": ["Job security", "Respect in society", "Opportunity to help people", "Diverse specializations"],
+    "cons": ["Long education period", "High stress", "Long working hours", "Emotional challenges"],
+    "roadmap": [
+      "Class 11-12 with PCB (Physics, Chemistry, Biology)",
+      "Crack NEET-UG to secure MBBS seat",
+      "Complete MBBS (5.5 years including internship)",
+      "Clear NEET-PG or INI CET for specialization",
+      "Complete MD/MS + residency for roles such as Neurosurgeon, Cardiologist, etc."
+    ],
+    "sub_specialty_steps": {
+      "Neurosurgeon": [
+        "MBBS + NEET-PG",
+        "MS in General Surgery",
+        "MCh / DNB Super Specialization in Neurosurgery"
+      ],
+      "Nurse": [
+        "Physics-Chemistry-Biology in 12th",
+        "Qualify entrance for B.Sc. Nursing / GNM",
+        "Clear state nursing council exams + internship"
+      ]
+    }
+  },
+  "Pharmacist": {
+    "description": "Dispense medicines, counsel patients on correct usage, manage drug inventory, and ensure regulatory compliance in retail or clinical settings.",
+    "education": ["Diploma in Pharmacy (D.Pharm)", "Bachelor of Pharmacy (B.Pharm)", "Master of Pharmacy (M.Pharm)", "Pharm.D"],
+    "skills": ["Pharmacology", "Drug Dispensing", "Patient Counseling", "Inventory Management", "Regulatory Compliance", "Attention to Detail"],
+    "salary": "₹3-12 LPA (Retail: ₹3-6 LPA, Hospital: ₹4-8 LPA, Industry/Senior Roles: ₹8-12 LPA)",
+    "market": "Steady demand across hospitals, retail chains, government health centers, and pharmaceutical companies.",
+    "pros": ["Multiple work settings", "Option to start own business", "High trust profession", "Growing healthcare sector"],
+    "cons": ["Long hours on feet", "Strict regulatory oversight", "Need to stay updated with drug changes"],
+    "paths": [
+      {
+        "title": "Retail / Community Pharmacist",
+        "description": "Open your own medical store or manage a chain pharmacy. Handle prescriptions, inventory, and patient guidance."
+      },
+      {
+        "title": "Hospital / Clinical Pharmacist",
+        "description": "Work with doctors inside hospitals to prepare and dispense medications, monitor drug interactions, and support patient recovery."
+      },
+      {
+        "title": "Pharmaceutical Industry Specialist",
+        "description": "Join pharma manufacturing, quality assurance, medical coding, or drug safety teams with opportunities for rapid growth."
+      },
+      {
+        "title": "Government & Regulatory Services",
+        "description": "Clear Drug Inspector or government health department exams to oversee compliance, licensing, and public drug programs."
+      }
+    ],
+    "roadmap": [
+      "Study PCB (or PCM) in Class 11-12",
+      "Appear for state CET/entrance for D.Pharm or B.Pharm",
+      "Complete internship + register with State Pharmacy Council",
+      "Optionally pursue M.Pharm/Pharm.D for advanced roles",
+      "For own shop: obtain drug license + GST + setup approvals",
+      "For government roles: clear Drug Inspector/Pharmacist exams"
+    ]
+  },
+  "Digital Marketer": {
+    "description": "Create campaigns and strategies to promote brands online through SEO, social media, content marketing, and paid advertising.",
+    "education": ["BBA", "MBA Marketing", "Digital Marketing Certificate Programs"],
+    "skills": ["SEO", "Google Ads", "Social Media Strategy", "Analytics", "Content Creation"],
+    "salary": "₹4-15 LPA (Fresh: ₹4-8 LPA, Senior: ₹10-15 LPA+)",
+    "market": "High demand in digital-first businesses, agencies, and e-commerce companies.",
+    "pros": ["Creative work", "Fast-growing field", "Remote opportunities", "Diverse specializations"],
+    "cons": ["Need to stay updated with trends", "Metrics-driven pressure", "Competitive field"],
+    "roadmap": [
+      "Complete 12th in any stream",
+      "Pursue BBA/MBA or digital marketing certifications",
+      "Learn SEO, Google Ads, social media platforms",
+      "Build portfolio with live campaigns",
+      "Get certified (Google, Meta, HubSpot)",
+      "Start with internships or freelancing"
+    ]
+  },
+  "Graphic Designer": {
+    "description": "Create branding, visuals, ads, UI and multimedia assets using design software and creative principles.",
+    "education": ["B.Des", "BFA", "Graphic Design Certificate Courses"],
+    "skills": ["Photoshop", "Illustrator", "Creativity", "Typography", "Layout Design"],
+    "salary": "₹4-12 LPA (Fresh: ₹4-6 LPA, Senior: ₹8-12 LPA+)",
+    "market": "High demand in advertising agencies, branding firms, and digital media companies.",
+    "pros": ["Creative freedom", "Portfolio-based career", "Freelance opportunities", "Visual impact"],
+    "cons": ["Subjective feedback", "Tight deadlines", "Need continuous skill updates"],
+    "roadmap": [
+      "Complete 12th (Arts/Science/Commerce)",
+      "Learn design tools (Photoshop, Illustrator, Figma)",
+      "Master typography and layout principles",
+      "Create portfolio on Behance/Dribbble",
+      "Start with internships or freelance projects",
+      "Specialize in UI/UX or brand identity"
+    ]
+  },
+  "Business Manager": {
+    "description": "Oversee business operations, manage teams, and drive organizational growth and strategy.",
+    "education": ["Bachelor's in Business Administration", "MBA", "Industry-specific certifications"],
+    "skills": ["Leadership", "Strategic Planning", "Team Management", "Communication", "Problem-solving"],
+    "salary": "₹8-40 LPA (Junior: ₹8-15 LPA, Senior: ₹25-40 LPA+)",
+    "market": "Consistent demand across all industries. Essential for organizational success.",
+    "pros": ["Leadership role", "Good compensation", "Diverse challenges", "Career growth"],
+    "cons": ["High responsibility", "Stressful decisions", "Work-life balance challenges"],
+    "roadmap": [
+      "Complete 12th in Commerce/Science/Arts",
+      "Pursue BBA or relevant bachelor's degree",
+      "Gain work experience (2-3 years)",
+      "Pursue MBA from reputed institute",
+      "Start in entry-level management roles",
+      "Progress to senior management positions"
+    ]
+  }
+}
