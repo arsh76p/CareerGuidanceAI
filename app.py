@@ -31,7 +31,6 @@ def _load_keys():
     cfg = configparser.ConfigParser()
     if _CFG.exists():
         cfg.read(_CFG)
-        sec = cfg.get("keys", {}) if "keys" in cfg else {}
         for env, key in [("OPENAI_API_KEY","openai"),("SMTP_EMAIL","smtp_email"),("SMTP_PASSWORD","smtp_password")]:
             v = cfg["keys"].get(key, "") if "keys" in cfg else ""
             if v and not os.environ.get(env, ""):
